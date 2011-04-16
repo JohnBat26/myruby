@@ -35,9 +35,11 @@ class Document
     @content.split
   end
 
+
   def word_count
     words.size
   end
+
 
   def count_words_in(the_string)
     the_words = the_string.split
@@ -74,6 +76,29 @@ class Document
   def obscure_times!
     @content.gsub!(/\d\d:\d\d (AM|PM)/, '**:** **')
   end
+
+  def about_me
+    puts "I am #{self}"
+    puts "My title is #{self.title}"
+    puts "I have #{self.word_count} words"
+  end
+
+  def to_s
+    "Document: #{title} by #{author}"
+  end
+
+  # This method works because self is the right thing,
+  # the document instance, when you call it.
+  def print_word_count
+    n = word_count
+    puts "The number of words is #{word_count}"
+  end
+
+  def send(recipient)
+# Do some interesting SMTP stuff...
+  end
+
+
 
 end
 

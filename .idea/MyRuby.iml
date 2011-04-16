@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="RUBY_MODULE" version="4">
+  <component name="GemRequirementsHolder" version="3">
+    <requirement>
+      <requirement>
+        <dependency name="test-unit" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="my_test.rb" />
+    </requirement>
+  </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
@@ -12,6 +20,13 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] gtk2 (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/gtk2-0.90.8)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] atk (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/atk-0.90.8)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] xml-simple (v1.0.15, /home/johnbat26/.gem/ruby/1.9.1/gems/xml-simple-1.0.15)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit (v2.2.0, /home/johnbat26/.gem/ruby/1.9.1/gems/test-unit-2.2.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-core (v2.5.1, /usr/lib64/ruby/gems/1.9.1/gems/rspec-core-2.5.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.5.0, /usr/lib64/ruby/gems/1.9.1/gems/rspec-mocks-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] diff-lcs (v1.1.2, /usr/lib64/ruby/gems/1.9.1/gems/diff-lcs-1.1.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec (v2.5.0, /usr/lib64/ruby/gems/1.9.1/gems/rspec-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.5.0, /usr/lib64/ruby/gems/1.9.1/gems/rspec-expectations-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit-runner-gtk2 (v0.0.2, /home/johnbat26/.gem/ruby/1.9.1/gems/test-unit-runner-gtk2-0.0.2)" level="application" />
   </component>
 </module>
 
