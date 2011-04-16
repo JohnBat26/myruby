@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] cairo (v1.10.0, /home/johnbat26/.gem/ruby/1.9.1/gems/cairo-1.10.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] pango (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/pango-0.90.8)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] gdk_pixbuf2 (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/gdk_pixbuf2-0.90.8)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] glib2 (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/glib2-0.90.8)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] pkg-config (v1.1.0, /home/johnbat26/.gem/ruby/1.9.1/gems/pkg-config-1.1.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] gtk2 (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/gtk2-0.90.8)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] atk (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/atk-0.90.8)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] xml-simple (v1.0.15, /home/johnbat26/.gem/ruby/1.9.1/gems/xml-simple-1.0.15)" level="application" />
+  </component>
+</module>
+

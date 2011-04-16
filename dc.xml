@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+    <super-hero>
+        <name>Spiderman</name>
+        <origin>Radioactive Spider</origin>
+    </super-hero>
+    <super-hero>
+        <name>Hulk</name>
+        <origin>Gamma Rays</origin>
+    </super-hero>
+    <super-hero>
+        <name>Reed Richards</name>
+        <origin>Cosmic Rays</origin>
+    </super-hero>
+</characters>
