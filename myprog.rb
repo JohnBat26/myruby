@@ -5,13 +5,13 @@
 #
 # data :2011-04-14
 
-def say_goodnight(name)
-  result = "Good night, " + name
+def who_says_what
+  yield("Dave", "hello")
+  yield("Andy", "goodbye")
 end
 
-# Time for bed...
-puts say_goodnight("JohnBoy")
-puts say_goodnight("MaryEllen")
-puts say_goodnight("MaryEllen")
-puts say_goodnight("MaryEllen")
-puts say_goodnight("MaryEllen")
+who_says_what { |person, phrase| puts "#{person} says #{phrase}" }
+
+
+animals = %w( ant bee cat dog elk ) # create an array
+animals.each {|animal| puts animal }

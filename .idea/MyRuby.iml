@@ -5,7 +5,7 @@
       <requirement>
         <dependency name="test-unit" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
       </requirement>
-      <source from="my_test.rb" />
+      <source from="document_test.rb" />
     </requirement>
   </component>
   <component name="NewModuleRootManager">
