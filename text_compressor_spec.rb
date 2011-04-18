@@ -20,4 +20,6 @@ describe TextCompressor do
     c.unique_index_of('world').should == 1
   end
 # ...
+# ...
+
 end
