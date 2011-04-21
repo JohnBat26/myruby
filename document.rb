@@ -95,10 +95,30 @@ class Document
   end
 
   def send(recipient)
-# Do some interesting SMTP stuff...
+    # Do some interesting SMTP stuff...
   end
 
+  def +(other)
+    if other.kind_of?(String)
+      return Document.new(title, author, "#{content} #{other}")
+    end
+    Document.new(title, author, "#{content} #{other.content}")
+  end
 
+  def !
+    Document.new(title, author, "It is not true: #{content}")
+  end
 
+  def +@
+    Document.new(title, author, "I am sure that #{@content}")
+  end
+
+  def -@
+    Document.new(title, author, "I doubt that #{@content}")
+  end
+
+  def [](index)
+    words[index]
+  end
 end
 
