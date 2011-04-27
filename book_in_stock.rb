@@ -14,3 +14,4 @@ class BookInStock
   end
 
 end
+
