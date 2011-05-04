@@ -19,7 +19,5 @@ describe TextCompressor do
     c.unique_index_of('hello').should == 0
     c.unique_index_of('world').should == 1
   end
-# ...
-# ...
 
 end

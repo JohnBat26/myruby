@@ -12,7 +12,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="[gem] shoesgem (v0.1514.0, /home/johnbat26/.gem/ruby/1.9.1/gems/shoesgem-0.1514.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] cairo (v1.10.0, /home/johnbat26/.gem/ruby/1.9.1/gems/cairo-1.10.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] pango (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/pango-0.90.8)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] gdk_pixbuf2 (v0.90.8, /home/johnbat26/.gem/ruby/1.9.1/gems/gdk_pixbuf2-0.90.8)" level="application" />
@@ -28,7 +27,18 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec (v2.5.0, /usr/lib64/ruby/gems/1.9.1/gems/rspec-2.5.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.5.0, /usr/lib64/ruby/gems/1.9.1/gems/rspec-expectations-2.5.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit-runner-gtk2 (v0.0.2, /home/johnbat26/.gem/ruby/1.9.1/gems/test-unit-runner-gtk2-0.0.2)" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="[gem] shoes (v3.0.1, /home/johnbat26/.gem/ruby/1.9.1/gems/shoes-3.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit-full (v0.0.3, /home/johnbat26/.gem/ruby/1.9.1/gems/test-unit-full-0.0.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rake (v0.8.7, /usr/lib64/ruby/gems/1.9.1/gems/rake-0.8.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit-notify (v0.3.0, /home/johnbat26/.gem/ruby/1.9.1/gems/test-unit-notify-0.3.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit-runner-tk (v0.0.1, /home/johnbat26/.gem/ruby/1.9.1/gems/test-unit-runner-tk-0.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rr (v1.0.2, /home/johnbat26/.gem/ruby/1.9.1/gems/rr-1.0.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit-rr (v1.0.1, /home/johnbat26/.gem/ruby/1.9.1/gems/test-unit-rr-1.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] hoe (v2.9.1, /usr/lib64/ruby/gems/1.9.1/gems/hoe-2.9.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] test-unit-runner-fox (v0.0.1, /home/johnbat26/.gem/ruby/1.9.1/gems/test-unit-runner-fox-0.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.6.0.rc2, /home/johnbat26/.gem/ruby/1.9.1/gems/rspec-mocks-2.6.0.rc2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-core (v2.6.0.rc2, /home/johnbat26/.gem/ruby/1.9.1/gems/rspec-core-2.6.0.rc2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.6.0.rc2, /home/johnbat26/.gem/ruby/1.9.1/gems/rspec-expectations-2.6.0.rc2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec (v2.6.0.rc2, /home/johnbat26/.gem/ruby/1.9.1/gems/rspec-2.6.0.rc2)" level="application" />
   </component>
 </module>
 
