@@ -1,0 +1,17 @@
+#!/usr/bin/ruby19
+# -*- coding: utf-8 -*-
+# Author: Eugene Batogov
+# Copyright 2011 Eugene Batogov
+#
+# data :2011-08-15
+
+
+require 'dalli'
+
+
+dc = Dalli::Client.new('172.20.0.3:11211')
+dc.set('abc', 123)
+value = dc.get('abc')
+
+
+puts value
