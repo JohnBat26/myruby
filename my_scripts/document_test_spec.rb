@@ -1,4 +1,4 @@
-require "rspec"
+require 'rspec'
 load 'document.rb'
 
 describe Document do
